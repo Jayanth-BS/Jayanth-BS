@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
+# Welcome To My GitHub Profile !
+
+
+
 - 👋 Hi, I’m @Jayanth-BS
 - 👀 I’m interested in Machine Learning and Full Stack Web Development.
 - 🌱 I’m currently learning AI-ML and building projects on it.
