@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning AI-ML and building projects on it.
 - 💞️ I’m looking to collaborate on Internship oppurtunities in the domain of ML and Full Stack Development to having great learning experience.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayanth-BS)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Jayanth-BS/Jayanth-BS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
