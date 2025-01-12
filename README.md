@@ -7,6 +7,7 @@
 
 
 - 👋 Hi, I’m @Jayanth-BS
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayanth-BS)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🧰 Languages and Tools
