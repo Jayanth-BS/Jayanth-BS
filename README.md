@@ -7,10 +7,6 @@
 
 
 - 👋 Hi, I’m @Jayanth-BS
-- 👀 I’m interested in Machine Learning and Full Stack Web Development.
-- 🌱 I’m currently learning AI-ML and building projects on it.
-- 💞️ I’m looking to collaborate on Internship oppurtunities in the domain of ML and Full Stack Development to having great learning experience.
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayanth-BS)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🧰 Languages and Tools
